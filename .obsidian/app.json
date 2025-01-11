@@ -19,6 +19,7 @@
     "editor:toggle-checklist-status",
     "editor:undo",
     "editor:redo",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "editor:insert-callout"
   ]
 }

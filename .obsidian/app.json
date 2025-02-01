@@ -21,6 +21,5 @@
     "editor:redo",
     "editor:configure-toolbar",
     "editor:insert-callout"
-  ],
-  "attachmentFolderPath": "./Resources"
+  ]
 }

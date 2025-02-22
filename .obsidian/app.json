@@ -4,6 +4,8 @@
     "editor:indent-list",
     "editor:swap-line-up",
     "editor:swap-line-down",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
     "editor:set-heading",
     "editor:toggle-bold",
     "editor:toggle-italics",
@@ -16,8 +18,6 @@
     "editor:attach-file",
     "editor:insert-embed",
     "editor:toggle-code",
-    "editor:toggle-bullet-list",
-    "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
     "editor:configure-toolbar"
   ],
